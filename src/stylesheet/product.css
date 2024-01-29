@@ -1,0 +1,55 @@
+.allpro {
+  display: flex;
+  margin-bottom: 20vh;
+}
+
+.fruit {
+  background-image: url("../assets/fruit.jpg");
+  background-size: cover;
+  height: 35vh;
+  width: 15vw;
+  margin-left: 9vw;
+}
+.vegetable {
+  background-image: url("../assets/vege.jpg");
+  background-size: cover;
+  height: 35vh;
+  width: 15vw;
+  margin-left: 9vw;
+}
+.organic {
+  background-image: url("../assets/organic.jpg");
+  background-size: cover;
+  height: 35vh;
+  width: 15vw;
+  margin-left: 9vw;
+}
+.dairy {
+  background-image: url("../assets/dairy.jpg");
+  background-size: cover;
+  height: 35vh;
+  width: 15vw;
+  margin-left: 9vw;
+}
+/* .ft{
+    height: 80vh;
+    width: 15vw;
+    margin-left: 9vw; 
+    text-align:center;
+} */
+.ft h3 {
+  margin-left: 9vw;
+  text-align: center;
+  width: 15vw;
+}
+.ft p {
+  margin-left: 9vw;
+  text-align: center;
+  width: 15vw;
+}
+.ft button {
+    margin-top: 2vh;
+    margin-left: 12vw;
+    text-align: center;
+    width: 8vw;
+  }
